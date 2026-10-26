@@ -1,0 +1,20 @@
+{
+  "name": "brujula-tutor-estudio",
+  "version": "1.0.0",
+  "description": "Brújula — Tutor de estudio con Gemini 3.5 Flash-Lite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test:key": "node test-key.js"
+  },
+  "keywords": [
+    "gemini",
+    "ia",
+    "tutor",
+    "educacion",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
